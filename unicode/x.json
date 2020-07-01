@@ -1,0 +1,3292 @@
+[
+  {
+    "count": 0,
+    "基本信息": {
+      "ID": {
+        "String": "321284201011030016(02010711)",
+        "Valid": true
+      },
+      "医疗付费方式": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdҽ\ufffdƱ\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "住院序号": {
+        "String": "02010711",
+        "Valid": true
+      },
+      "住院号": {
+        "String": "02010711",
+        "Valid": true
+      },
+      "姓名": {
+        "String": "\ufffd\ufffd\ufffdѳ\ufffd",
+        "Valid": true
+      },
+      "性别": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "出生日期": {
+        "String": "2010\ufffd\ufffd11\ufffd\ufffd03\ufffd\ufffd",
+        "Valid": true
+      },
+      "年龄": {
+        "String": "10",
+        "Valid": true
+      },
+      "国籍": {
+        "String": "\ufffdй\ufffd",
+        "Valid": true
+      },
+      "新生儿年龄": {
+        "String": "",
+        "Valid": false
+      },
+      "新生儿出生体重": {
+        "String": "-",
+        "Valid": true
+      },
+      "新生儿入院体重": {
+        "String": "",
+        "Valid": false
+      },
+      "出生地": {
+        "String": "̩\ufffd\ufffd\ufffdн\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "籍贯": {
+        "String": "̩\ufffd\ufffd\ufffdн\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "民族": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "身份证号": {
+        "String": "321284201011030016",
+        "Valid": true
+      },
+      "职业": {
+        "String": "ѧ\ufffd\ufffd",
+        "Valid": true
+      },
+      "婚姻": {
+        "String": "δ\ufffd\ufffd",
+        "Valid": true
+      },
+      "现住址": {
+        "String": "",
+        "Valid": false
+      },
+      "电话": {
+        "String": "13182269770",
+        "Valid": true
+      },
+      "邮编": {
+        "String": "225500",
+        "Valid": true
+      },
+      "户口地址": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdҴ\ufffd8\ufffd\ufffd",
+        "Valid": true
+      },
+      "户口邮编": {
+        "String": "225500",
+        "Valid": true
+      },
+      "工作单位及地址": {
+        "String": "-",
+        "Valid": true
+      },
+      "单位电话": {
+        "String": "-",
+        "Valid": true
+      },
+      "单位邮编": {
+        "String": "-",
+        "Valid": true
+      },
+      "联系人姓名": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "联系人关系": {
+        "String": "\ufffd\ufffdĸ",
+        "Valid": true
+      },
+      "联系人地址": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdҴ\ufffd8\ufffd\ufffd",
+        "Valid": true
+      },
+      "联系人电话": {
+        "String": "15189979707",
+        "Valid": true
+      },
+      "入院途径": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "入院时间": {
+        "String": "2020\ufffd\ufffd06\ufffd\ufffd13\ufffd\ufffd 10ʱ",
+        "Valid": true
+      },
+      "入院科别": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "病房": {
+        "String": "ʮ\ufffd߲\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "转科科别": {
+        "String": "-",
+        "Valid": true
+      },
+      "出院时间": {
+        "String": "2020\ufffd\ufffd06\ufffd\ufffd18\ufffd\ufffd 08ʱ",
+        "Valid": true
+      },
+      "出院科别": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "出院病房": {
+        "String": "ʮ\ufffd߲\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "住院天数": {
+        "String": "5",
+        "Valid": true
+      },
+      "门急诊诊断": {
+        "String": "\ufffd\ufffd\ufffd\ufffd֧\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "疾病编码": {
+        "String": "J20.900",
+        "Valid": true
+      },
+      "记录编码": {
+        "String": "",
+        "Valid": false
+      },
+      "患者编码": {
+        "String": "",
+        "Valid": false
+      },
+      "记录序号": {
+        "String": "",
+        "Valid": false
+      },
+      "Flag": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "死亡患者尸检": {
+      "String": "",
+      "Valid": false
+    },
+    "呼吸机使用时间": {
+      "String": "",
+      "Valid": false
+    },
+    "损伤中毒": {
+      "损伤中毒外部原因": {
+        "String": "",
+        "Valid": false
+      },
+      "疾病编码": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "病理检查": {
+      "病理诊断": {
+        "String": "",
+        "Valid": false
+      },
+      "疾病编码": {
+        "String": "",
+        "Valid": false
+      },
+      "病理号": {
+        "String": "-",
+        "Valid": true
+      }
+    },
+    "过敏": {
+      "药物过敏": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "过敏药物": {
+        "String": "δ\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "血型": {
+      "血型": {
+        "String": "A",
+        "Valid": true
+      },
+      "Rh": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "质控": {
+      "病案质量": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "质控日期": {
+        "String": "2020\ufffd\ufffd06\ufffd\ufffd18\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "离院": {
+      "离院方式": {
+        "String": "ҽ\ufffd\ufffd\ufffd\ufffdԺ",
+        "Valid": true
+      },
+      "拟接收医疗机构名称": {
+        "String": "-",
+        "Valid": true
+      },
+      "其他": {
+        "String": "1",
+        "Valid": true
+      }
+    },
+    "再住院": {
+      "是否有出院31天内再住院计划": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "目的": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "颅脑损伤患者昏迷时间": {
+      "颅脑损伤患者昏迷时间入院前": {
+        "String": "-",
+        "Valid": true
+      },
+      "颅脑损伤患者昏迷时间入院后": {
+        "String": "-",
+        "Valid": true
+      }
+    },
+    "肿瘤分期": {
+      "肿瘤分期T": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期N": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期M": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期阶段": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "日常生活能力评定量表得分": {
+      "日常生活能力评定量表得分入院": {
+        "String": "",
+        "Valid": false
+      },
+      "日常生活能力评定量表得分出院": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "用血量": {
+      "红细胞": {
+        "String": "",
+        "Valid": false
+      },
+      "血浆": {
+        "String": "",
+        "Valid": false
+      },
+      "血小板": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "出院诊断结果": null,
+    "手术": null,
+    "重症监护病区": null,
+    "Label": null,
+    "Collection": null,
+    "Annotations": null
+  },
+  {
+    "count": 0,
+    "基本信息": {
+      "ID": {
+        "String": "32128419960920851X(02008873)",
+        "Valid": true
+      },
+      "医疗付费方式": {
+        "String": "ȫ\ufffdԷ\ufffd",
+        "Valid": true
+      },
+      "住院序号": {
+        "String": "02008873",
+        "Valid": true
+      },
+      "住院号": {
+        "String": "02008873",
+        "Valid": true
+      },
+      "姓名": {
+        "String": "\ufffd貨",
+        "Valid": true
+      },
+      "性别": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "出生日期": {
+        "String": "1996\ufffd\ufffd09\ufffd\ufffd20\ufffd\ufffd",
+        "Valid": true
+      },
+      "年龄": {
+        "String": "24",
+        "Valid": true
+      },
+      "国籍": {
+        "String": "\ufffdй\ufffd",
+        "Valid": true
+      },
+      "新生儿年龄": {
+        "String": "--",
+        "Valid": true
+      },
+      "新生儿出生体重": {
+        "String": "--",
+        "Valid": true
+      },
+      "新生儿入院体重": {
+        "String": "--",
+        "Valid": true
+      },
+      "出生地": {
+        "String": "̩\ufffd\ufffd\ufffdн\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "籍贯": {
+        "String": "̩\ufffd\ufffd\ufffdн\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "民族": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "身份证号": {
+        "String": "32128419960920851X",
+        "Valid": true
+      },
+      "职业": {
+        "String": "ũ\ufffd\ufffd",
+        "Valid": true
+      },
+      "婚姻": {
+        "String": "δ\ufffd\ufffd",
+        "Valid": true
+      },
+      "现住址": {
+        "String": "",
+        "Valid": false
+      },
+      "电话": {
+        "String": "15365609510",
+        "Valid": true
+      },
+      "邮编": {
+        "String": "225500",
+        "Valid": true
+      },
+      "户口地址": {
+        "String": "\ufffd\ufffd\ufffd\ufffdʡ\ufffd\ufffd\ufffd\ufffd\ufffdй˸\ufffd\ufffd\ufffd\ufffd\ufffd«\ufffd\ufffdһ\ufffd\ufffd16\ufffd\ufffd",
+        "Valid": true
+      },
+      "户口邮编": {
+        "String": "225500",
+        "Valid": true
+      },
+      "工作单位及地址": {
+        "String": "---",
+        "Valid": true
+      },
+      "单位电话": {
+        "String": "--",
+        "Valid": true
+      },
+      "单位邮编": {
+        "String": "--",
+        "Valid": true
+      },
+      "联系人姓名": {
+        "String": "\ufffd貨",
+        "Valid": true
+      },
+      "联系人关系": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "联系人地址": {
+        "String": "\ufffd˸\ufffd\ufffd\ufffd\ufffd\ufffd«\ufffd\ufffdһ\ufffd\ufffd16\ufffd\ufffd",
+        "Valid": true
+      },
+      "联系人电话": {
+        "String": "15365609510",
+        "Valid": true
+      },
+      "入院途径": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "入院时间": {
+        "String": "2020\ufffd\ufffd05\ufffd\ufffd20\ufffd\ufffd 09ʱ",
+        "Valid": true
+      },
+      "入院科别": {
+        "String": "\ufffd\ufffd\ufffd˿\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "病房": {
+        "String": "\ufffdŲ\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "转科科别": {
+        "String": "",
+        "Valid": false
+      },
+      "出院时间": {
+        "String": "2020\ufffd\ufffd06\ufffd\ufffd01\ufffd\ufffd 15ʱ",
+        "Valid": true
+      },
+      "出院科别": {
+        "String": "\ufffd\ufffd\ufffd˿\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "出院病房": {
+        "String": "\ufffdŲ\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "住院天数": {
+        "String": "12",
+        "Valid": true
+      },
+      "门急诊诊断": {
+        "String": "ȡ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdڹ̶\ufffdװ\ufffd\ufffd",
+        "Valid": true
+      },
+      "疾病编码": {
+        "String": "Z47.001",
+        "Valid": true
+      },
+      "记录编码": {
+        "String": "",
+        "Valid": false
+      },
+      "患者编码": {
+        "String": "",
+        "Valid": false
+      },
+      "记录序号": {
+        "String": "",
+        "Valid": false
+      },
+      "Flag": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "死亡患者尸检": {
+      "String": "",
+      "Valid": false
+    },
+    "呼吸机使用时间": {
+      "String": "",
+      "Valid": false
+    },
+    "损伤中毒": {
+      "损伤中毒外部原因": {
+        "String": "",
+        "Valid": false
+      },
+      "疾病编码": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "病理检查": {
+      "病理诊断": {
+        "String": "",
+        "Valid": false
+      },
+      "疾病编码": {
+        "String": "",
+        "Valid": false
+      },
+      "病理号": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "过敏": {
+      "药物过敏": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "过敏药物": {
+        "String": "δ\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "血型": {
+      "血型": {
+        "String": "A",
+        "Valid": true
+      },
+      "Rh": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "质控": {
+      "病案质量": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "质控日期": {
+        "String": "2020\ufffd\ufffd06\ufffd\ufffd01\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "离院": {
+      "离院方式": {
+        "String": "ҽ\ufffd\ufffd\ufffd\ufffdԺ",
+        "Valid": true
+      },
+      "拟接收医疗机构名称": {
+        "String": "---",
+        "Valid": true
+      },
+      "其他": {
+        "String": "1",
+        "Valid": true
+      }
+    },
+    "再住院": {
+      "是否有出院31天内再住院计划": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "目的": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "颅脑损伤患者昏迷时间": {
+      "颅脑损伤患者昏迷时间入院前": {
+        "String": "-",
+        "Valid": true
+      },
+      "颅脑损伤患者昏迷时间入院后": {
+        "String": "-",
+        "Valid": true
+      }
+    },
+    "肿瘤分期": {
+      "肿瘤分期T": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期N": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期M": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期阶段": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "日常生活能力评定量表得分": {
+      "日常生活能力评定量表得分入院": {
+        "String": "",
+        "Valid": false
+      },
+      "日常生活能力评定量表得分出院": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "用血量": {
+      "红细胞": {
+        "String": "",
+        "Valid": false
+      },
+      "血浆": {
+        "String": "",
+        "Valid": false
+      },
+      "血小板": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "出院诊断结果": null,
+    "手术": null,
+    "重症监护病区": null,
+    "Label": null,
+    "Collection": null,
+    "Annotations": null
+  },
+  {
+    "count": 0,
+    "基本信息": {
+      "ID": {
+        "String": "321028193605073428(02009144)",
+        "Valid": true
+      },
+      "医疗付费方式": {
+        "String": "ȫ\ufffdԷ\ufffd",
+        "Valid": true
+      },
+      "住院序号": {
+        "String": "02009144",
+        "Valid": true
+      },
+      "住院号": {
+        "String": "02009144",
+        "Valid": true
+      },
+      "姓名": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "性别": {
+        "String": "Ů",
+        "Valid": true
+      },
+      "出生日期": {
+        "String": "1936\ufffd\ufffd05\ufffd\ufffd07\ufffd\ufffd",
+        "Valid": true
+      },
+      "年龄": {
+        "String": "84",
+        "Valid": true
+      },
+      "国籍": {
+        "String": "\ufffdй\ufffd",
+        "Valid": true
+      },
+      "新生儿年龄": {
+        "String": "-",
+        "Valid": true
+      },
+      "新生儿出生体重": {
+        "String": "-",
+        "Valid": true
+      },
+      "新生儿入院体重": {
+        "String": "-",
+        "Valid": true
+      },
+      "出生地": {
+        "String": "̩\ufffd\ufffd\ufffdн\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "籍贯": {
+        "String": "̩\ufffd\ufffd\ufffdн\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "民族": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "身份证号": {
+        "String": "321028193605073428",
+        "Valid": true
+      },
+      "职业": {
+        "String": "\ufffd\ufffd\ufffd\ufffdְҵ\ufffd\ufffd",
+        "Valid": true
+      },
+      "婚姻": {
+        "String": "\ufffdѻ\ufffd",
+        "Valid": true
+      },
+      "现住址": {
+        "String": "",
+        "Valid": false
+      },
+      "电话": {
+        "String": "13641566248",
+        "Valid": true
+      },
+      "邮编": {
+        "String": "225500",
+        "Valid": true
+      },
+      "户口地址": {
+        "String": "\ufffd\ufffd\ufffd\ufffdʡ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdͷ\ufffd\ufffd\ufffd\ufffdɳ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd50\ufffd\ufffd",
+        "Valid": true
+      },
+      "户口邮编": {
+        "String": "225500",
+        "Valid": true
+      },
+      "工作单位及地址": {
+        "String": "-",
+        "Valid": true
+      },
+      "单位电话": {
+        "String": "-",
+        "Valid": true
+      },
+      "单位邮编": {
+        "String": "-",
+        "Valid": true
+      },
+      "联系人姓名": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "联系人关系": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "联系人地址": {
+        "String": "\ufffd\ufffdͷ\ufffd\ufffd\ufffd\ufffdɳ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd50\ufffd\ufffd",
+        "Valid": true
+      },
+      "联系人电话": {
+        "String": "13641566248",
+        "Valid": true
+      },
+      "入院途径": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "入院时间": {
+        "String": "2020\ufffd\ufffd05\ufffd\ufffd24\ufffd\ufffd 12ʱ",
+        "Valid": true
+      },
+      "入院科别": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "病房": {
+        "String": "ʮ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "转科科别": {
+        "String": "-",
+        "Valid": true
+      },
+      "出院时间": {
+        "String": "2020\ufffd\ufffd06\ufffd\ufffd03\ufffd\ufffd 08ʱ",
+        "Valid": true
+      },
+      "出院科别": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "出院病房": {
+        "String": "ʮ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "住院天数": {
+        "String": "10",
+        "Valid": true
+      },
+      "门急诊诊断": {
+        "String": "\ufffd߹ǹ\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "疾病编码": {
+        "String": "S22.300",
+        "Valid": true
+      },
+      "记录编码": {
+        "String": "",
+        "Valid": false
+      },
+      "患者编码": {
+        "String": "",
+        "Valid": false
+      },
+      "记录序号": {
+        "String": "",
+        "Valid": false
+      },
+      "Flag": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "死亡患者尸检": {
+      "String": "",
+      "Valid": false
+    },
+    "呼吸机使用时间": {
+      "String": "",
+      "Valid": false
+    },
+    "损伤中毒": {
+      "损伤中毒外部原因": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd¹\ufffd\ufffdе\ufffd\ufffd\ufffdԱ\ufffd\ufffd\ufffdˣ\ufffd\ufffdǽ\ufffdͨ\ufffd\ufffd",
+        "Valid": true
+      },
+      "疾病编码": {
+        "String": "V89.000",
+        "Valid": true
+      }
+    },
+    "病理检查": {
+      "病理诊断": {
+        "String": "-",
+        "Valid": true
+      },
+      "疾病编码": {
+        "String": "-",
+        "Valid": true
+      },
+      "病理号": {
+        "String": "-",
+        "Valid": true
+      }
+    },
+    "过敏": {
+      "药物过敏": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "过敏药物": {
+        "String": "δ\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "血型": {
+      "血型": {
+        "String": "A",
+        "Valid": true
+      },
+      "Rh": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "质控": {
+      "病案质量": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "质控日期": {
+        "String": "2020\ufffd\ufffd06\ufffd\ufffd03\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "离院": {
+      "离院方式": {
+        "String": "ҽ\ufffd\ufffd\ufffd\ufffdԺ",
+        "Valid": true
+      },
+      "拟接收医疗机构名称": {
+        "String": "-",
+        "Valid": true
+      },
+      "其他": {
+        "String": "1",
+        "Valid": true
+      }
+    },
+    "再住院": {
+      "是否有出院31天内再住院计划": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "目的": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "颅脑损伤患者昏迷时间": {
+      "颅脑损伤患者昏迷时间入院前": {
+        "String": "-",
+        "Valid": true
+      },
+      "颅脑损伤患者昏迷时间入院后": {
+        "String": "-",
+        "Valid": true
+      }
+    },
+    "肿瘤分期": {
+      "肿瘤分期T": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期N": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期M": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期阶段": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "日常生活能力评定量表得分": {
+      "日常生活能力评定量表得分入院": {
+        "String": "",
+        "Valid": false
+      },
+      "日常生活能力评定量表得分出院": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "用血量": {
+      "红细胞": {
+        "String": "",
+        "Valid": false
+      },
+      "血浆": {
+        "String": "",
+        "Valid": false
+      },
+      "血小板": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "出院诊断结果": null,
+    "手术": null,
+    "重症监护病区": null,
+    "Label": null,
+    "Collection": null,
+    "Annotations": null
+  },
+  {
+    "count": 0,
+    "基本信息": {
+      "ID": {
+        "String": "321028193908043226(02010952)",
+        "Valid": true
+      },
+      "医疗付费方式": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdҽ\ufffdƱ\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "住院序号": {
+        "String": "02010952",
+        "Valid": true
+      },
+      "住院号": {
+        "String": "02010952",
+        "Valid": true
+      },
+      "姓名": {
+        "String": "\ufffd\ufffd\ufffd\ufffdӢ",
+        "Valid": true
+      },
+      "性别": {
+        "String": "Ů",
+        "Valid": true
+      },
+      "出生日期": {
+        "String": "1939\ufffd\ufffd08\ufffd\ufffd04\ufffd\ufffd",
+        "Valid": true
+      },
+      "年龄": {
+        "String": "81",
+        "Valid": true
+      },
+      "国籍": {
+        "String": "\ufffdй\ufffd",
+        "Valid": true
+      },
+      "新生儿年龄": {
+        "String": "-",
+        "Valid": true
+      },
+      "新生儿出生体重": {
+        "String": "-",
+        "Valid": true
+      },
+      "新生儿入院体重": {
+        "String": "-",
+        "Valid": true
+      },
+      "出生地": {
+        "String": "̩\ufffd\ufffd\ufffdн\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "籍贯": {
+        "String": "̩\ufffd\ufffd\ufffdн\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "民族": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "身份证号": {
+        "String": "321028193908043226",
+        "Valid": true
+      },
+      "职业": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "婚姻": {
+        "String": "\ufffdѻ\ufffd",
+        "Valid": true
+      },
+      "现住址": {
+        "String": "",
+        "Valid": false
+      },
+      "电话": {
+        "String": "13852666869",
+        "Valid": true
+      },
+      "邮编": {
+        "String": "225500",
+        "Valid": true
+      },
+      "户口地址": {
+        "String": "̩\ufffd\ufffd\ufffdн\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd˻\ufffd԰6-504",
+        "Valid": true
+      },
+      "户口邮编": {
+        "String": "225500",
+        "Valid": true
+      },
+      "工作单位及地址": {
+        "String": "\ufffd\ufffd\ufffd߼ƻ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd֢\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "单位电话": {
+        "String": "13852666869",
+        "Valid": true
+      },
+      "单位邮编": {
+        "String": "225500",
+        "Valid": true
+      },
+      "联系人姓名": {
+        "String": "\ufffd\ufffd\ufffd\ufffdӢ",
+        "Valid": true
+      },
+      "联系人关系": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "联系人地址": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd˻\ufffd԰6-504",
+        "Valid": true
+      },
+      "联系人电话": {
+        "String": "13852666869",
+        "Valid": true
+      },
+      "入院途径": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "入院时间": {
+        "String": "2020\ufffd\ufffd06\ufffd\ufffd16\ufffd\ufffd 10ʱ",
+        "Valid": true
+      },
+      "入院科别": {
+        "String": "\ufffd\ufffd\ufffd\ufffdһ",
+        "Valid": true
+      },
+      "病房": {
+        "String": "ʮ\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "转科科别": {
+        "String": "-",
+        "Valid": true
+      },
+      "出院时间": {
+        "String": "2020\ufffd\ufffd06\ufffd\ufffd17\ufffd\ufffd 09ʱ",
+        "Valid": true
+      },
+      "出院科别": {
+        "String": "\ufffd\ufffd\ufffd\ufffdһ",
+        "Valid": true
+      },
+      "出院病房": {
+        "String": "ʮ\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "住院天数": {
+        "String": "1",
+        "Valid": true
+      },
+      "门急诊诊断": {
+        "String": "Ƥ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "疾病编码": {
+        "String": "R22.903",
+        "Valid": true
+      },
+      "记录编码": {
+        "String": "",
+        "Valid": false
+      },
+      "患者编码": {
+        "String": "",
+        "Valid": false
+      },
+      "记录序号": {
+        "String": "",
+        "Valid": false
+      },
+      "Flag": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "死亡患者尸检": {
+      "String": "",
+      "Valid": false
+    },
+    "呼吸机使用时间": {
+      "String": "",
+      "Valid": false
+    },
+    "损伤中毒": {
+      "损伤中毒外部原因": {
+        "String": "--",
+        "Valid": true
+      },
+      "疾病编码": {
+        "String": "-",
+        "Valid": true
+      }
+    },
+    "病理检查": {
+      "病理诊断": {
+        "String": "-",
+        "Valid": true
+      },
+      "疾病编码": {
+        "String": "-",
+        "Valid": true
+      },
+      "病理号": {
+        "String": "-",
+        "Valid": true
+      }
+    },
+    "过敏": {
+      "药物过敏": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "过敏药物": {
+        "String": "-",
+        "Valid": true
+      }
+    },
+    "血型": {
+      "血型": {
+        "String": "",
+        "Valid": false
+      },
+      "Rh": {
+        "String": "δ\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "质控": {
+      "病案质量": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "质控日期": {
+        "String": "2020\ufffd\ufffd06\ufffd\ufffd17\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "离院": {
+      "离院方式": {
+        "String": "ҽ\ufffd\ufffd\ufffd\ufffdԺ",
+        "Valid": true
+      },
+      "拟接收医疗机构名称": {
+        "String": "-",
+        "Valid": true
+      },
+      "其他": {
+        "String": "1",
+        "Valid": true
+      }
+    },
+    "再住院": {
+      "是否有出院31天内再住院计划": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "目的": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "颅脑损伤患者昏迷时间": {
+      "颅脑损伤患者昏迷时间入院前": {
+        "String": "-",
+        "Valid": true
+      },
+      "颅脑损伤患者昏迷时间入院后": {
+        "String": "--",
+        "Valid": true
+      }
+    },
+    "肿瘤分期": {
+      "肿瘤分期T": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期N": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期M": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期阶段": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "日常生活能力评定量表得分": {
+      "日常生活能力评定量表得分入院": {
+        "String": "",
+        "Valid": false
+      },
+      "日常生活能力评定量表得分出院": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "用血量": {
+      "红细胞": {
+        "String": "",
+        "Valid": false
+      },
+      "血浆": {
+        "String": "",
+        "Valid": false
+      },
+      "血小板": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "出院诊断结果": null,
+    "手术": null,
+    "重症监护病区": null,
+    "Label": null,
+    "Collection": null,
+    "Annotations": null
+  },
+  {
+    "count": 0,
+    "基本信息": {
+      "ID": {
+        "String": "321028195009020820(02009993)",
+        "Valid": true
+      },
+      "医疗付费方式": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdҽ\ufffdƱ\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "住院序号": {
+        "String": "02009993",
+        "Valid": true
+      },
+      "住院号": {
+        "String": "02009993",
+        "Valid": true
+      },
+      "姓名": {
+        "String": "Ҧ\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "性别": {
+        "String": "Ů",
+        "Valid": true
+      },
+      "出生日期": {
+        "String": "1950\ufffd\ufffd09\ufffd\ufffd02\ufffd\ufffd",
+        "Valid": true
+      },
+      "年龄": {
+        "String": "70",
+        "Valid": true
+      },
+      "国籍": {
+        "String": "\ufffdй\ufffd",
+        "Valid": true
+      },
+      "新生儿年龄": {
+        "String": "-",
+        "Valid": true
+      },
+      "新生儿出生体重": {
+        "String": "-",
+        "Valid": true
+      },
+      "新生儿入院体重": {
+        "String": "-",
+        "Valid": true
+      },
+      "出生地": {
+        "String": "̩\ufffd\ufffd\ufffdн\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "籍贯": {
+        "String": "̩\ufffd\ufffd\ufffdн\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "民族": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "身份证号": {
+        "String": "321028195009020820",
+        "Valid": true
+      },
+      "职业": {
+        "String": "ũ\ufffd\ufffd",
+        "Valid": true
+      },
+      "婚姻": {
+        "String": "\ufffdѻ\ufffd",
+        "Valid": true
+      },
+      "现住址": {
+        "String": "",
+        "Valid": false
+      },
+      "电话": {
+        "String": "13914534885",
+        "Valid": true
+      },
+      "邮编": {
+        "String": "225500",
+        "Valid": true
+      },
+      "户口地址": {
+        "String": "\ufffd\ufffd\ufffd\ufffdʡ\ufffd\ufffd\ufffd\ufffd\ufffdа\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd28\ufffd\ufffd",
+        "Valid": true
+      },
+      "户口邮编": {
+        "String": "225500",
+        "Valid": true
+      },
+      "工作单位及地址": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdҽ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "单位电话": {
+        "String": "13382554768",
+        "Valid": true
+      },
+      "单位邮编": {
+        "String": "225500",
+        "Valid": true
+      },
+      "联系人姓名": {
+        "String": "Ҧ\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "联系人关系": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "联系人地址": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffdа\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd28\ufffd\ufffd",
+        "Valid": true
+      },
+      "联系人电话": {
+        "String": "13382554768",
+        "Valid": true
+      },
+      "入院途径": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "入院时间": {
+        "String": "2020\ufffd\ufffd06\ufffd\ufffd04\ufffd\ufffd 16ʱ",
+        "Valid": true
+      },
+      "入院科别": {
+        "String": "\ufffd\ufffd\ufffd˿\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "病房": {
+        "String": "\ufffd˲\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "转科科别": {
+        "String": "-",
+        "Valid": true
+      },
+      "出院时间": {
+        "String": "2020\ufffd\ufffd06\ufffd\ufffd13\ufffd\ufffd 10ʱ",
+        "Valid": true
+      },
+      "出院科别": {
+        "String": "\ufffd\ufffd\ufffd˿\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "出院病房": {
+        "String": "\ufffd˲\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "住院天数": {
+        "String": "9",
+        "Valid": true
+      },
+      "门急诊诊断": {
+        "String": "\ufffd¾\ufffd\ufffdԹɹǴ\ufffd¡\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "疾病编码": {
+        "String": "T93.104",
+        "Valid": true
+      },
+      "记录编码": {
+        "String": "",
+        "Valid": false
+      },
+      "患者编码": {
+        "String": "",
+        "Valid": false
+      },
+      "记录序号": {
+        "String": "",
+        "Valid": false
+      },
+      "Flag": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "死亡患者尸检": {
+      "String": "",
+      "Valid": false
+    },
+    "呼吸机使用时间": {
+      "String": "",
+      "Valid": false
+    },
+    "损伤中毒": {
+      "损伤中毒外部原因": {
+        "String": "",
+        "Valid": false
+      },
+      "疾病编码": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "病理检查": {
+      "病理诊断": {
+        "String": "",
+        "Valid": false
+      },
+      "疾病编码": {
+        "String": "",
+        "Valid": false
+      },
+      "病理号": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "过敏": {
+      "药物过敏": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "过敏药物": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "血型": {
+      "血型": {
+        "String": "B",
+        "Valid": true
+      },
+      "Rh": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "质控": {
+      "病案质量": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "质控日期": {
+        "String": "2020\ufffd\ufffd06\ufffd\ufffd13\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "离院": {
+      "离院方式": {
+        "String": "ҽ\ufffd\ufffd\ufffd\ufffdԺ",
+        "Valid": true
+      },
+      "拟接收医疗机构名称": {
+        "String": "-",
+        "Valid": true
+      },
+      "其他": {
+        "String": "1",
+        "Valid": true
+      }
+    },
+    "再住院": {
+      "是否有出院31天内再住院计划": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "目的": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "颅脑损伤患者昏迷时间": {
+      "颅脑损伤患者昏迷时间入院前": {
+        "String": "-",
+        "Valid": true
+      },
+      "颅脑损伤患者昏迷时间入院后": {
+        "String": "-",
+        "Valid": true
+      }
+    },
+    "肿瘤分期": {
+      "肿瘤分期T": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期N": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期M": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期阶段": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "日常生活能力评定量表得分": {
+      "日常生活能力评定量表得分入院": {
+        "String": "",
+        "Valid": false
+      },
+      "日常生活能力评定量表得分出院": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "用血量": {
+      "红细胞": {
+        "String": "",
+        "Valid": false
+      },
+      "血浆": {
+        "String": "",
+        "Valid": false
+      },
+      "血小板": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "出院诊断结果": null,
+    "手术": null,
+    "重症监护病区": null,
+    "Label": null,
+    "Collection": null,
+    "Annotations": null
+  },
+  {
+    "count": 0,
+    "基本信息": {
+      "ID": {
+        "String": "321028194409135235(02009756)",
+        "Valid": true
+      },
+      "医疗付费方式": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdҽ\ufffdƱ\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "住院序号": {
+        "String": "02009756",
+        "Valid": true
+      },
+      "住院号": {
+        "String": "02009756",
+        "Valid": true
+      },
+      "姓名": {
+        "String": "\ufffd\ufffd\ufffdº\ufffd",
+        "Valid": true
+      },
+      "性别": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "出生日期": {
+        "String": "1944\ufffd\ufffd09\ufffd\ufffd13\ufffd\ufffd",
+        "Valid": true
+      },
+      "年龄": {
+        "String": "76",
+        "Valid": true
+      },
+      "国籍": {
+        "String": "\ufffdй\ufffd",
+        "Valid": true
+      },
+      "新生儿年龄": {
+        "String": "-",
+        "Valid": true
+      },
+      "新生儿出生体重": {
+        "String": "-",
+        "Valid": true
+      },
+      "新生儿入院体重": {
+        "String": "-",
+        "Valid": true
+      },
+      "出生地": {
+        "String": "̩\ufffd\ufffd\ufffdн\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "籍贯": {
+        "String": "̩\ufffd\ufffd\ufffdн\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "民族": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "身份证号": {
+        "String": "321028194409135235",
+        "Valid": true
+      },
+      "职业": {
+        "String": "ũ\ufffd\ufffd",
+        "Valid": true
+      },
+      "婚姻": {
+        "String": "\ufffdѻ\ufffd",
+        "Valid": true
+      },
+      "现住址": {
+        "String": "",
+        "Valid": false
+      },
+      "电话": {
+        "String": "15052849609",
+        "Valid": true
+      },
+      "邮编": {
+        "String": "225500",
+        "Valid": true
+      },
+      "户口地址": {
+        "String": "\ufffd\ufffd\ufffd\ufffdʡ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdŵ\ufffd\ufffd\ufffd\ufffd\ufffdׯ\ufffd\ufffdʮ\ufffd\ufffd17\ufffd\ufffd",
+        "Valid": true
+      },
+      "户口邮编": {
+        "String": "225500",
+        "Valid": true
+      },
+      "工作单位及地址": {
+        "String": "-",
+        "Valid": true
+      },
+      "单位电话": {
+        "String": "-",
+        "Valid": true
+      },
+      "单位邮编": {
+        "String": "-",
+        "Valid": true
+      },
+      "联系人姓名": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "联系人关系": {
+        "String": "Ů",
+        "Valid": true
+      },
+      "联系人地址": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdŵ\ufffd\ufffd\ufffd\ufffd\ufffdׯ\ufffd\ufffdʮ\ufffd\ufffd17\ufffd\ufffd",
+        "Valid": true
+      },
+      "联系人电话": {
+        "String": "15052849609",
+        "Valid": true
+      },
+      "入院途径": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "入院时间": {
+        "String": "2020\ufffd\ufffd06\ufffd\ufffd01\ufffd\ufffd 15ʱ",
+        "Valid": true
+      },
+      "入院科别": {
+        "String": "\ufffdβ\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "病房": {
+        "String": "ʮ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "转科科别": {
+        "String": "-",
+        "Valid": true
+      },
+      "出院时间": {
+        "String": "2020\ufffd\ufffd06\ufffd\ufffd06\ufffd\ufffd 10ʱ",
+        "Valid": true
+      },
+      "出院科别": {
+        "String": "\ufffdβ\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "出院病房": {
+        "String": "ʮ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "住院天数": {
+        "String": "5",
+        "Valid": true
+      },
+      "门急诊诊断": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffdԷβ\ufffd",
+        "Valid": true
+      },
+      "疾病编码": {
+        "String": "J84.900",
+        "Valid": true
+      },
+      "记录编码": {
+        "String": "",
+        "Valid": false
+      },
+      "患者编码": {
+        "String": "",
+        "Valid": false
+      },
+      "记录序号": {
+        "String": "",
+        "Valid": false
+      },
+      "Flag": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "死亡患者尸检": {
+      "String": "",
+      "Valid": false
+    },
+    "呼吸机使用时间": {
+      "String": "",
+      "Valid": false
+    },
+    "损伤中毒": {
+      "损伤中毒外部原因": {
+        "String": "-",
+        "Valid": true
+      },
+      "疾病编码": {
+        "String": "-",
+        "Valid": true
+      }
+    },
+    "病理检查": {
+      "病理诊断": {
+        "String": "-",
+        "Valid": true
+      },
+      "疾病编码": {
+        "String": "-",
+        "Valid": true
+      },
+      "病理号": {
+        "String": "-",
+        "Valid": true
+      }
+    },
+    "过敏": {
+      "药物过敏": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "过敏药物": {
+        "String": "-",
+        "Valid": true
+      }
+    },
+    "血型": {
+      "血型": {
+        "String": "",
+        "Valid": false
+      },
+      "Rh": {
+        "String": "δ\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "质控": {
+      "病案质量": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "质控日期": {
+        "String": "2020\ufffd\ufffd06\ufffd\ufffd06\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "离院": {
+      "离院方式": {
+        "String": "ҽ\ufffd\ufffd\ufffd\ufffdԺ",
+        "Valid": true
+      },
+      "拟接收医疗机构名称": {
+        "String": "-",
+        "Valid": true
+      },
+      "其他": {
+        "String": "1",
+        "Valid": true
+      }
+    },
+    "再住院": {
+      "是否有出院31天内再住院计划": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "目的": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "颅脑损伤患者昏迷时间": {
+      "颅脑损伤患者昏迷时间入院前": {
+        "String": "-",
+        "Valid": true
+      },
+      "颅脑损伤患者昏迷时间入院后": {
+        "String": "-",
+        "Valid": true
+      }
+    },
+    "肿瘤分期": {
+      "肿瘤分期T": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期N": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期M": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期阶段": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "日常生活能力评定量表得分": {
+      "日常生活能力评定量表得分入院": {
+        "String": "",
+        "Valid": false
+      },
+      "日常生活能力评定量表得分出院": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "用血量": {
+      "红细胞": {
+        "String": "",
+        "Valid": false
+      },
+      "血浆": {
+        "String": "",
+        "Valid": false
+      },
+      "血小板": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "出院诊断结果": null,
+    "手术": null,
+    "重症监护病区": null,
+    "Label": null,
+    "Collection": null,
+    "Annotations": null
+  },
+  {
+    "count": 0,
+    "基本信息": {
+      "ID": {
+        "String": "321028193901053819(02009799)",
+        "Valid": true
+      },
+      "医疗付费方式": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdҽ\ufffdƱ\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "住院序号": {
+        "String": "02009799",
+        "Valid": true
+      },
+      "住院号": {
+        "String": "02009799",
+        "Valid": true
+      },
+      "姓名": {
+        "String": "\ufffdŵ\ufffdï",
+        "Valid": true
+      },
+      "性别": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "出生日期": {
+        "String": "1939\ufffd\ufffd01\ufffd\ufffd05\ufffd\ufffd",
+        "Valid": true
+      },
+      "年龄": {
+        "String": "81",
+        "Valid": true
+      },
+      "国籍": {
+        "String": "\ufffdй\ufffd",
+        "Valid": true
+      },
+      "新生儿年龄": {
+        "String": "-",
+        "Valid": true
+      },
+      "新生儿出生体重": {
+        "String": "-",
+        "Valid": true
+      },
+      "新生儿入院体重": {
+        "String": "-",
+        "Valid": true
+      },
+      "出生地": {
+        "String": "̩\ufffd\ufffd\ufffdн\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "籍贯": {
+        "String": "̩\ufffd\ufffd\ufffdн\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "民族": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "身份证号": {
+        "String": "321028193901053819",
+        "Valid": true
+      },
+      "职业": {
+        "String": "ũ\ufffd\ufffd",
+        "Valid": true
+      },
+      "婚姻": {
+        "String": "\ufffdѻ\ufffd",
+        "Valid": true
+      },
+      "现住址": {
+        "String": "",
+        "Valid": false
+      },
+      "电话": {
+        "String": "18052665570",
+        "Valid": true
+      },
+      "邮编": {
+        "String": "225500",
+        "Valid": true
+      },
+      "户口地址": {
+        "String": "\ufffd\ufffd\ufffd\ufffdʡ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdкӴ\ufffd\ufffdк\ufffd\ufffd\ufffd·136\ufffd\ufffd",
+        "Valid": true
+      },
+      "户口邮编": {
+        "String": "225500",
+        "Valid": true
+      },
+      "工作单位及地址": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdҽ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdкӴ\ufffd",
+        "Valid": true
+      },
+      "单位电话": {
+        "String": "18052665570",
+        "Valid": true
+      },
+      "单位邮编": {
+        "String": "225500",
+        "Valid": true
+      },
+      "联系人姓名": {
+        "String": "\ufffd\ufffd־ΰ",
+        "Valid": true
+      },
+      "联系人关系": {
+        "String": "\ufffd\ufffd\ufffdӡ\ufffd\ufffd\ufffdŮ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdӡ\ufffd\ufffd\ufffd\ufffd\ufffdŮ",
+        "Valid": true
+      },
+      "联系人地址": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdкӴ\ufffd\ufffdк\ufffd\ufffd\ufffd·",
+        "Valid": true
+      },
+      "联系人电话": {
+        "String": "18052665570",
+        "Valid": true
+      },
+      "入院途径": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "入院时间": {
+        "String": "2020\ufffd\ufffd06\ufffd\ufffd02\ufffd\ufffd 08ʱ",
+        "Valid": true
+      },
+      "入院科别": {
+        "String": "\ufffdۿ\ufffd",
+        "Valid": true
+      },
+      "病房": {
+        "String": "ʮһ\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "转科科别": {
+        "String": "-",
+        "Valid": true
+      },
+      "出院时间": {
+        "String": "2020\ufffd\ufffd06\ufffd\ufffd03\ufffd\ufffd 08ʱ",
+        "Valid": true
+      },
+      "出院科别": {
+        "String": "\ufffdۿ\ufffd",
+        "Valid": true
+      },
+      "出院病房": {
+        "String": "ʮһ\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "住院天数": {
+        "String": "1",
+        "Valid": true
+      },
+      "门急诊诊断": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffd԰\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "疾病编码": {
+        "String": "H25.900",
+        "Valid": true
+      },
+      "记录编码": {
+        "String": "",
+        "Valid": false
+      },
+      "患者编码": {
+        "String": "",
+        "Valid": false
+      },
+      "记录序号": {
+        "String": "",
+        "Valid": false
+      },
+      "Flag": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "死亡患者尸检": {
+      "String": "",
+      "Valid": false
+    },
+    "呼吸机使用时间": {
+      "String": "",
+      "Valid": false
+    },
+    "损伤中毒": {
+      "损伤中毒外部原因": {
+        "String": "-",
+        "Valid": true
+      },
+      "疾病编码": {
+        "String": "-",
+        "Valid": true
+      }
+    },
+    "病理检查": {
+      "病理诊断": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "疾病编码": {
+        "String": "/",
+        "Valid": true
+      },
+      "病理号": {
+        "String": "-",
+        "Valid": true
+      }
+    },
+    "过敏": {
+      "药物过敏": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "过敏药物": {
+        "String": "-",
+        "Valid": true
+      }
+    },
+    "血型": {
+      "血型": {
+        "String": "",
+        "Valid": false
+      },
+      "Rh": {
+        "String": "δ\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "质控": {
+      "病案质量": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "质控日期": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "离院": {
+      "离院方式": {
+        "String": "ҽ\ufffd\ufffd\ufffd\ufffdԺ",
+        "Valid": true
+      },
+      "拟接收医疗机构名称": {
+        "String": "-",
+        "Valid": true
+      },
+      "其他": {
+        "String": "1",
+        "Valid": true
+      }
+    },
+    "再住院": {
+      "是否有出院31天内再住院计划": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "目的": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "颅脑损伤患者昏迷时间": {
+      "颅脑损伤患者昏迷时间入院前": {
+        "String": "-",
+        "Valid": true
+      },
+      "颅脑损伤患者昏迷时间入院后": {
+        "String": "-",
+        "Valid": true
+      }
+    },
+    "肿瘤分期": {
+      "肿瘤分期T": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期N": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期M": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期阶段": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "日常生活能力评定量表得分": {
+      "日常生活能力评定量表得分入院": {
+        "String": "",
+        "Valid": false
+      },
+      "日常生活能力评定量表得分出院": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "用血量": {
+      "红细胞": {
+        "String": "",
+        "Valid": false
+      },
+      "血浆": {
+        "String": "",
+        "Valid": false
+      },
+      "血小板": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "出院诊断结果": null,
+    "手术": null,
+    "重症监护病区": null,
+    "Label": null,
+    "Collection": null,
+    "Annotations": null
+  },
+  {
+    "count": 0,
+    "基本信息": {
+      "ID": {
+        "String": "321021194404277176(02010133)",
+        "Valid": true
+      },
+      "医疗付费方式": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdҽ\ufffdƱ\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "住院序号": {
+        "String": "02010133",
+        "Valid": true
+      },
+      "住院号": {
+        "String": "02010133",
+        "Valid": true
+      },
+      "姓名": {
+        "String": "\ufffd\ufffd\ufffd\ufffd̫",
+        "Valid": true
+      },
+      "性别": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "出生日期": {
+        "String": "1944\ufffd\ufffd04\ufffd\ufffd27\ufffd\ufffd",
+        "Valid": true
+      },
+      "年龄": {
+        "String": "76",
+        "Valid": true
+      },
+      "国籍": {
+        "String": "\ufffdй\ufffd",
+        "Valid": true
+      },
+      "新生儿年龄": {
+        "String": "-",
+        "Valid": true
+      },
+      "新生儿出生体重": {
+        "String": "-",
+        "Valid": true
+      },
+      "新生儿入院体重": {
+        "String": "-",
+        "Valid": true
+      },
+      "出生地": {
+        "String": "\ufffd\ufffd\ufffd\ufffdʡ\ufffd˻\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "籍贯": {
+        "String": "\ufffd\ufffd\ufffd\ufffdʡ\ufffd˻\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "民族": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "身份证号": {
+        "String": "321021194404277176",
+        "Valid": true
+      },
+      "职业": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "婚姻": {
+        "String": "\ufffdѻ\ufffd",
+        "Valid": true
+      },
+      "现住址": {
+        "String": "",
+        "Valid": false
+      },
+      "电话": {
+        "String": "13182218882",
+        "Valid": true
+      },
+      "邮编": {
+        "String": "225700",
+        "Valid": true
+      },
+      "户口地址": {
+        "String": "\ufffd\ufffd\ufffd\ufffdʡ\ufffd˻\ufffd\ufffd\ufffdéɽ\ufffd\ufffd\ufffd\ufffd\ufffdĽֶ\ufffd\ufffd\ufffd\ufffd\ufffd88\ufffd\ufffd",
+        "Valid": true
+      },
+      "户口邮编": {
+        "String": "225700",
+        "Valid": true
+      },
+      "工作单位及地址": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdҽ\ufffdƱ\ufffd\ufffd\ufffd\ufffd˻\ufffd\ufffd\ufffdéɽ\ufffd\ufffd\ufffdͶ\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "单位电话": {
+        "String": "13182218882",
+        "Valid": true
+      },
+      "单位邮编": {
+        "String": "225700",
+        "Valid": true
+      },
+      "联系人姓名": {
+        "String": "\ufffd\ufffd\ufffd\ufffd̫",
+        "Valid": true
+      },
+      "联系人关系": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "联系人地址": {
+        "String": "\ufffd˻\ufffd\ufffd\ufffdéɽ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "联系人电话": {
+        "String": "13182218882",
+        "Valid": true
+      },
+      "入院途径": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "入院时间": {
+        "String": "2020\ufffd\ufffd06\ufffd\ufffd06\ufffd\ufffd 11ʱ",
+        "Valid": true
+      },
+      "入院科别": {
+        "String": "\ufffd\ufffd\ufffd˿\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "病房": {
+        "String": "\ufffd˲\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "转科科别": {
+        "String": "-",
+        "Valid": true
+      },
+      "出院时间": {
+        "String": "2020\ufffd\ufffd06\ufffd\ufffd10\ufffd\ufffd 10ʱ",
+        "Valid": true
+      },
+      "出院科别": {
+        "String": "\ufffd\ufffd\ufffd˿\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "出院病房": {
+        "String": "\ufffd˲\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "住院天数": {
+        "String": "4",
+        "Valid": true
+      },
+      "门急诊诊断": {
+        "String": "\ufffd\ufffd׵\ufffd\ufffd\ufffd\ufffdͻ\ufffd\ufffd",
+        "Valid": true
+      },
+      "疾病编码": {
+        "String": "M51.202",
+        "Valid": true
+      },
+      "记录编码": {
+        "String": "",
+        "Valid": false
+      },
+      "患者编码": {
+        "String": "",
+        "Valid": false
+      },
+      "记录序号": {
+        "String": "",
+        "Valid": false
+      },
+      "Flag": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "死亡患者尸检": {
+      "String": "",
+      "Valid": false
+    },
+    "呼吸机使用时间": {
+      "String": "",
+      "Valid": false
+    },
+    "损伤中毒": {
+      "损伤中毒外部原因": {
+        "String": "",
+        "Valid": false
+      },
+      "疾病编码": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "病理检查": {
+      "病理诊断": {
+        "String": "",
+        "Valid": false
+      },
+      "疾病编码": {
+        "String": "",
+        "Valid": false
+      },
+      "病理号": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "过敏": {
+      "药物过敏": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "过敏药物": {
+        "String": "-",
+        "Valid": true
+      }
+    },
+    "血型": {
+      "血型": {
+        "String": "A",
+        "Valid": true
+      },
+      "Rh": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "质控": {
+      "病案质量": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "质控日期": {
+        "String": "2020\ufffd\ufffd06\ufffd\ufffd10\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "离院": {
+      "离院方式": {
+        "String": "ҽ\ufffd\ufffd\ufffd\ufffdԺ",
+        "Valid": true
+      },
+      "拟接收医疗机构名称": {
+        "String": "-",
+        "Valid": true
+      },
+      "其他": {
+        "String": "1",
+        "Valid": true
+      }
+    },
+    "再住院": {
+      "是否有出院31天内再住院计划": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "目的": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "颅脑损伤患者昏迷时间": {
+      "颅脑损伤患者昏迷时间入院前": {
+        "String": "-",
+        "Valid": true
+      },
+      "颅脑损伤患者昏迷时间入院后": {
+        "String": "-",
+        "Valid": true
+      }
+    },
+    "肿瘤分期": {
+      "肿瘤分期T": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期N": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期M": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期阶段": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "日常生活能力评定量表得分": {
+      "日常生活能力评定量表得分入院": {
+        "String": "",
+        "Valid": false
+      },
+      "日常生活能力评定量表得分出院": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "用血量": {
+      "红细胞": {
+        "String": "",
+        "Valid": false
+      },
+      "血浆": {
+        "String": "",
+        "Valid": false
+      },
+      "血小板": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "出院诊断结果": null,
+    "手术": null,
+    "重症监护病区": null,
+    "Label": null,
+    "Collection": null,
+    "Annotations": null
+  },
+  {
+    "count": 0,
+    "基本信息": {
+      "ID": {
+        "String": "321028195312054812(02009470)",
+        "Valid": true
+      },
+      "医疗付费方式": {
+        "String": "\ufffd\ufffd\ufffd\ufffdְ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdҽ\ufffdƱ\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "住院序号": {
+        "String": "02009470",
+        "Valid": true
+      },
+      "住院号": {
+        "String": "02009470",
+        "Valid": true
+      },
+      "姓名": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "性别": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "出生日期": {
+        "String": "1953\ufffd\ufffd12\ufffd\ufffd05\ufffd\ufffd",
+        "Valid": true
+      },
+      "年龄": {
+        "String": "67",
+        "Valid": true
+      },
+      "国籍": {
+        "String": "\ufffdй\ufffd",
+        "Valid": true
+      },
+      "新生儿年龄": {
+        "String": "-",
+        "Valid": true
+      },
+      "新生儿出生体重": {
+        "String": "-",
+        "Valid": true
+      },
+      "新生儿入院体重": {
+        "String": "-",
+        "Valid": true
+      },
+      "出生地": {
+        "String": "̩\ufffd\ufffd\ufffdн\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "籍贯": {
+        "String": "̩\ufffd\ufffd\ufffdн\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "民族": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "身份证号": {
+        "String": "321028195312054812",
+        "Valid": true
+      },
+      "职业": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "婚姻": {
+        "String": "\ufffdѻ\ufffd",
+        "Valid": true
+      },
+      "现住址": {
+        "String": "",
+        "Valid": false
+      },
+      "电话": {
+        "String": "13641569798",
+        "Valid": true
+      },
+      "邮编": {
+        "String": "225500",
+        "Valid": true
+      },
+      "户口地址": {
+        "String": "̩\ufffd\ufffd\ufffdн\ufffd\ufffdߴ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd11\ufffd\ufffd",
+        "Valid": true
+      },
+      "户口邮编": {
+        "String": "225500",
+        "Valid": true
+      },
+      "工作单位及地址": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffdд\ufffd\ufffd\ufffd\ufffd\ufffdũҵ\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "单位电话": {
+        "String": "13641569798",
+        "Valid": true
+      },
+      "单位邮编": {
+        "String": "225500",
+        "Valid": true
+      },
+      "联系人姓名": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "联系人关系": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "联系人地址": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd11\ufffd\ufffd",
+        "Valid": true
+      },
+      "联系人电话": {
+        "String": "13641569798",
+        "Valid": true
+      },
+      "入院途径": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "入院时间": {
+        "String": "2020\ufffd\ufffd05\ufffd\ufffd29\ufffd\ufffd 07ʱ",
+        "Valid": true
+      },
+      "入院科别": {
+        "String": "\ufffd\ufffd\ufffd\ufffdһ",
+        "Valid": true
+      },
+      "病房": {
+        "String": "ʮ\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "转科科别": {
+        "String": "-",
+        "Valid": true
+      },
+      "出院时间": {
+        "String": "2020\ufffd\ufffd06\ufffd\ufffd10\ufffd\ufffd 08ʱ",
+        "Valid": true
+      },
+      "出院科别": {
+        "String": "\ufffd\ufffd\ufffd\ufffdһ",
+        "Valid": true
+      },
+      "出院病房": {
+        "String": "ʮ\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "住院天数": {
+        "String": "12",
+        "Valid": true
+      },
+      "门急诊诊断": {
+        "String": "\ufffd\ufffd\ufffdҽ\ufffdʯ\ufffd鵨\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "疾病编码": {
+        "String": "K80.100x001",
+        "Valid": true
+      },
+      "记录编码": {
+        "String": "",
+        "Valid": false
+      },
+      "患者编码": {
+        "String": "",
+        "Valid": false
+      },
+      "记录序号": {
+        "String": "",
+        "Valid": false
+      },
+      "Flag": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "死亡患者尸检": {
+      "String": "",
+      "Valid": false
+    },
+    "呼吸机使用时间": {
+      "String": "",
+      "Valid": false
+    },
+    "损伤中毒": {
+      "损伤中毒外部原因": {
+        "String": "-",
+        "Valid": true
+      },
+      "疾病编码": {
+        "String": "-",
+        "Valid": true
+      }
+    },
+    "病理检查": {
+      "病理诊断": {
+        "String": "-",
+        "Valid": true
+      },
+      "疾病编码": {
+        "String": "-",
+        "Valid": true
+      },
+      "病理号": {
+        "String": "020001623",
+        "Valid": true
+      }
+    },
+    "过敏": {
+      "药物过敏": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "过敏药物": {
+        "String": "-",
+        "Valid": true
+      }
+    },
+    "血型": {
+      "血型": {
+        "String": "AB",
+        "Valid": true
+      },
+      "Rh": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "质控": {
+      "病案质量": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "质控日期": {
+        "String": "2020\ufffd\ufffd06\ufffd\ufffd10\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "离院": {
+      "离院方式": {
+        "String": "ҽ\ufffd\ufffd\ufffd\ufffdԺ",
+        "Valid": true
+      },
+      "拟接收医疗机构名称": {
+        "String": "-",
+        "Valid": true
+      },
+      "其他": {
+        "String": "1",
+        "Valid": true
+      }
+    },
+    "再住院": {
+      "是否有出院31天内再住院计划": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "目的": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "颅脑损伤患者昏迷时间": {
+      "颅脑损伤患者昏迷时间入院前": {
+        "String": "-",
+        "Valid": true
+      },
+      "颅脑损伤患者昏迷时间入院后": {
+        "String": "-",
+        "Valid": true
+      }
+    },
+    "肿瘤分期": {
+      "肿瘤分期T": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期N": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期M": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期阶段": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "日常生活能力评定量表得分": {
+      "日常生活能力评定量表得分入院": {
+        "String": "",
+        "Valid": false
+      },
+      "日常生活能力评定量表得分出院": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "用血量": {
+      "红细胞": {
+        "String": "",
+        "Valid": false
+      },
+      "血浆": {
+        "String": "",
+        "Valid": false
+      },
+      "血小板": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "出院诊断结果": null,
+    "手术": null,
+    "重症监护病区": null,
+    "Label": null,
+    "Collection": null,
+    "Annotations": null
+  },
+  {
+    "count": 0,
+    "基本信息": {
+      "ID": {
+        "String": "321028195608202220(02010263)",
+        "Valid": true
+      },
+      "医疗付费方式": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdҽ\ufffdƱ\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "住院序号": {
+        "String": "02010263",
+        "Valid": true
+      },
+      "住院号": {
+        "String": "02010263",
+        "Valid": true
+      },
+      "姓名": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "性别": {
+        "String": "Ů",
+        "Valid": true
+      },
+      "出生日期": {
+        "String": "1956\ufffd\ufffd08\ufffd\ufffd20\ufffd\ufffd",
+        "Valid": true
+      },
+      "年龄": {
+        "String": "64",
+        "Valid": true
+      },
+      "国籍": {
+        "String": "\ufffdй\ufffd",
+        "Valid": true
+      },
+      "新生儿年龄": {
+        "String": "-",
+        "Valid": true
+      },
+      "新生儿出生体重": {
+        "String": "-",
+        "Valid": true
+      },
+      "新生儿入院体重": {
+        "String": "-",
+        "Valid": true
+      },
+      "出生地": {
+        "String": "̩\ufffd\ufffd\ufffdн\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "籍贯": {
+        "String": "̩\ufffd\ufffd\ufffdн\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "民族": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "身份证号": {
+        "String": "321028195608202220",
+        "Valid": true
+      },
+      "职业": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "婚姻": {
+        "String": "\ufffdѻ\ufffd",
+        "Valid": true
+      },
+      "现住址": {
+        "String": "",
+        "Valid": false
+      },
+      "电话": {
+        "String": "13952682833",
+        "Valid": true
+      },
+      "邮编": {
+        "String": "225500",
+        "Valid": true
+      },
+      "户口地址": {
+        "String": "\ufffd\ufffd\ufffd\ufffdʡ\ufffd\ufffd\ufffd\ufffd\ufffdд\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdҰ\ufffd\ufffdʮ\ufffd\ufffd\ufffd\ufffd45\ufffd\ufffd",
+        "Valid": true
+      },
+      "户口邮编": {
+        "String": "225500",
+        "Valid": true
+      },
+      "工作单位及地址": {
+        "String": "-",
+        "Valid": true
+      },
+      "单位电话": {
+        "String": "-",
+        "Valid": true
+      },
+      "单位邮编": {
+        "String": "225500",
+        "Valid": true
+      },
+      "联系人姓名": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "联系人关系": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "联系人地址": {
+        "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdҰ\ufffd\ufffdʮ\ufffd\ufffd\ufffd\ufffd45\ufffd\ufffd",
+        "Valid": true
+      },
+      "联系人电话": {
+        "String": "13952682833",
+        "Valid": true
+      },
+      "入院途径": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "入院时间": {
+        "String": "2020\ufffd\ufffd06\ufffd\ufffd08\ufffd\ufffd 09ʱ",
+        "Valid": true
+      },
+      "入院科别": {
+        "String": "Ƣθ\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "病房": {
+        "String": "һ\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "转科科别": {
+        "String": "-",
+        "Valid": true
+      },
+      "出院时间": {
+        "String": "2020\ufffd\ufffd06\ufffd\ufffd15\ufffd\ufffd 15ʱ",
+        "Valid": true
+      },
+      "出院科别": {
+        "String": "Ƣθ\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "出院病房": {
+        "String": "һ\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      },
+      "住院天数": {
+        "String": "7",
+        "Valid": true
+      },
+      "门急诊诊断": {
+        "String": "\ufffd\ufffdǻ\ufffd\ufffdҺ",
+        "Valid": true
+      },
+      "疾病编码": {
+        "String": "R18.x00x005",
+        "Valid": true
+      },
+      "记录编码": {
+        "String": "",
+        "Valid": false
+      },
+      "患者编码": {
+        "String": "",
+        "Valid": false
+      },
+      "记录序号": {
+        "String": "",
+        "Valid": false
+      },
+      "Flag": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "死亡患者尸检": {
+      "String": "",
+      "Valid": false
+    },
+    "呼吸机使用时间": {
+      "String": "",
+      "Valid": false
+    },
+    "损伤中毒": {
+      "损伤中毒外部原因": {
+        "String": "-",
+        "Valid": true
+      },
+      "疾病编码": {
+        "String": "-",
+        "Valid": true
+      }
+    },
+    "病理检查": {
+      "病理诊断": {
+        "String": "-",
+        "Valid": true
+      },
+      "疾病编码": {
+        "String": "-",
+        "Valid": true
+      },
+      "病理号": {
+        "String": "-",
+        "Valid": true
+      }
+    },
+    "过敏": {
+      "药物过敏": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "过敏药物": {
+        "String": "-",
+        "Valid": true
+      }
+    },
+    "血型": {
+      "血型": {
+        "String": "",
+        "Valid": false
+      },
+      "Rh": {
+        "String": "δ\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "质控": {
+      "病案质量": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "质控日期": {
+        "String": "2020\ufffd\ufffd06\ufffd\ufffd15\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "离院": {
+      "离院方式": {
+        "String": "ҽ\ufffd\ufffd\ufffd\ufffdԺ",
+        "Valid": true
+      },
+      "拟接收医疗机构名称": {
+        "String": "-",
+        "Valid": true
+      },
+      "其他": {
+        "String": "1",
+        "Valid": true
+      }
+    },
+    "再住院": {
+      "是否有出院31天内再住院计划": {
+        "String": "\ufffd\ufffd",
+        "Valid": true
+      },
+      "目的": {
+        "String": "\ufffd\ufffd\ufffd\ufffd",
+        "Valid": true
+      }
+    },
+    "颅脑损伤患者昏迷时间": {
+      "颅脑损伤患者昏迷时间入院前": {
+        "String": "-",
+        "Valid": true
+      },
+      "颅脑损伤患者昏迷时间入院后": {
+        "String": "-",
+        "Valid": true
+      }
+    },
+    "肿瘤分期": {
+      "肿瘤分期T": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期N": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期M": {
+        "String": "",
+        "Valid": false
+      },
+      "肿瘤分期阶段": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "日常生活能力评定量表得分": {
+      "日常生活能力评定量表得分入院": {
+        "String": "",
+        "Valid": false
+      },
+      "日常生活能力评定量表得分出院": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "用血量": {
+      "红细胞": {
+        "String": "",
+        "Valid": false
+      },
+      "血浆": {
+        "String": "",
+        "Valid": false
+      },
+      "血小板": {
+        "String": "",
+        "Valid": false
+      }
+    },
+    "出院诊断结果": null,
+    "手术": null,
+    "重症监护病区": null,
+    "Label": null,
+    "Collection": null,
+    "Annotations": null
+  }
+]

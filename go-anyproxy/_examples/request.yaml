@@ -1,0 +1,16 @@
+requestInjectors:
+  - match:
+      host: *.baidu.com
+      uri: /getUserInfo
+      query: a=1&b=2
+      method: get
+    headers:
+      Token: myToken
+    cookies:
+      Token: myCookieToken
+  - script: ./request.js
+
+responseInjectors:
+  - script: ./response.js
+  - headers:
+      Token: myToken

@@ -1,0 +1,182 @@
+{
+  "ID": {
+    "String": "321284201011030016(02010711)",
+    "Valid": true
+  },
+  "医疗付费方式": {
+    "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdҽ\ufffdƱ\ufffd\ufffd\ufffd",
+    "Valid": true
+  },
+  "住院序号": {
+    "String": "02010711",
+    "Valid": true
+  },
+  "住院号": {
+    "String": "02010711",
+    "Valid": true
+  },
+  "姓名": {
+    "String": "\ufffd\ufffd\ufffdѳ\ufffd",
+    "Valid": true
+  },
+  "性别": {
+    "String": "\ufffd\ufffd",
+    "Valid": true
+  },
+  "出生日期": {
+    "String": "2010\ufffd\ufffd11\ufffd\ufffd03\ufffd\ufffd",
+    "Valid": true
+  },
+  "年龄": {
+    "String": "10",
+    "Valid": true
+  },
+  "国籍": {
+    "String": "\ufffdй\ufffd",
+    "Valid": true
+  },
+  "新生儿年龄": {
+    "String": "",
+    "Valid": false
+  },
+  "新生儿出生体重": {
+    "String": "-",
+    "Valid": true
+  },
+  "新生儿入院体重": {
+    "String": "",
+    "Valid": false
+  },
+  "出生地": {
+    "String": "̩\ufffd\ufffd\ufffdн\ufffd\ufffd\ufffd\ufffd\ufffd",
+    "Valid": true
+  },
+  "籍贯": {
+    "String": "̩\ufffd\ufffd\ufffdн\ufffd\ufffd\ufffd\ufffd\ufffd",
+    "Valid": true
+  },
+  "民族": {
+    "String": "\ufffd\ufffd\ufffd\ufffd",
+    "Valid": true
+  },
+  "身份证号": {
+    "String": "321284201011030016",
+    "Valid": true
+  },
+  "职业": {
+    "String": "ѧ\ufffd\ufffd",
+    "Valid": true
+  },
+  "婚姻": {
+    "String": "δ\ufffd\ufffd",
+    "Valid": true
+  },
+  "现住址": {
+    "String": "",
+    "Valid": false
+  },
+  "电话": {
+    "String": "13182269770",
+    "Valid": true
+  },
+  "邮编": {
+    "String": "225500",
+    "Valid": true
+  },
+  "户口地址": {
+    "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdҴ\ufffd8\ufffd\ufffd",
+    "Valid": true
+  },
+  "户口邮编": {
+    "String": "225500",
+    "Valid": true
+  },
+  "工作单位及地址": {
+    "String": "-",
+    "Valid": true
+  },
+  "单位电话": {
+    "String": "-",
+    "Valid": true
+  },
+  "单位邮编": {
+    "String": "-",
+    "Valid": true
+  },
+  "联系人姓名": {
+    "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+    "Valid": true
+  },
+  "联系人关系": {
+    "String": "\ufffd\ufffdĸ",
+    "Valid": true
+  },
+  "联系人地址": {
+    "String": "\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffdҴ\ufffd8\ufffd\ufffd",
+    "Valid": true
+  },
+  "联系人电话": {
+    "String": "15189979707",
+    "Valid": true
+  },
+  "入院途径": {
+    "String": "\ufffd\ufffd\ufffd\ufffd",
+    "Valid": true
+  },
+  "入院时间": {
+    "String": "2020\ufffd\ufffd06\ufffd\ufffd13\ufffd\ufffd 10ʱ",
+    "Valid": true
+  },
+  "入院科别": {
+    "String": "\ufffd\ufffd\ufffd\ufffd",
+    "Valid": true
+  },
+  "病房": {
+    "String": "ʮ\ufffd߲\ufffd\ufffd\ufffd",
+    "Valid": true
+  },
+  "转科科别": {
+    "String": "-",
+    "Valid": true
+  },
+  "出院时间": {
+    "String": "2020\ufffd\ufffd06\ufffd\ufffd18\ufffd\ufffd 08ʱ",
+    "Valid": true
+  },
+  "出院科别": {
+    "String": "\ufffd\ufffd\ufffd\ufffd",
+    "Valid": true
+  },
+  "出院病房": {
+    "String": "ʮ\ufffd߲\ufffd\ufffd\ufffd",
+    "Valid": true
+  },
+  "住院天数": {
+    "String": "5",
+    "Valid": true
+  },
+  "门急诊诊断": {
+    "String": "\ufffd\ufffd\ufffd\ufffd֧\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd",
+    "Valid": true
+  },
+  "疾病编码": {
+    "String": "J20.900",
+    "Valid": true
+  },
+  "记录编码": {
+    "String": "",
+    "Valid": false
+  },
+  "患者编码": {
+    "String": "",
+    "Valid": false
+  },
+  "记录序号": {
+    "String": "",
+    "Valid": false
+  },
+  "Flag": {
+    "String": "",
+    "Valid": false
+  }
+}
