@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/clearcodecn/ca-gen/go-anyproxy/proxy"
+	"github.com/clearcodecn/gemen/go-anyproxy/proxy"
 	"log"
 )
 

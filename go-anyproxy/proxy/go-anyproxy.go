@@ -82,7 +82,6 @@ func (p *Proxy) handleRequest(conn net.Conn, r *http.Request) {
 		filterRequest.URL = r.URL.String()
 		filterRequest.Method = r.Method
 		filterRequest.Header = make(map[string]string)
-
 		for k := range r.Header {
 			filterRequest.Header[k] = newReq.Header.Get(k)
 		}
